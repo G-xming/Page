@@ -1,0 +1,34 @@
+/* Gav Made This :) */
+
+body
+{
+	font-family: sans-serif;
+	background: #17151f;
+}
+
+h1
+{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+/* Gav Made This :) */
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h3
+{
+    color: white;
+    padding-left: 10px;
+}
+
+#Div01
+{
+    border-radius: 20px;
+    outline-color: white;
+}
+
